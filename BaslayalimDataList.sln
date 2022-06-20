@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaslayalimDataList", "BaslayalimDataList\BaslayalimDataList.csproj", "{66092814-9137-4A93-AF9F-BC2FFE1A79EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66092814-9137-4A93-AF9F-BC2FFE1A79EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66092814-9137-4A93-AF9F-BC2FFE1A79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66092814-9137-4A93-AF9F-BC2FFE1A79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66092814-9137-4A93-AF9F-BC2FFE1A79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BB9B81-A6E8-44A8-8673-8779A6902281}
+	EndGlobalSection
+EndGlobal
